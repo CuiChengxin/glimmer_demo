@@ -4,4 +4,8 @@
 .idea/*
 .idea/workspace.xml
 .idea/workspace.xml
+<<<<<<< HEAD
+>>>>>>> refs/remotes/rayline/master
+=======
+.idea/workspace.xml
 >>>>>>> refs/remotes/rayline/master
